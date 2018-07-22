@@ -11,7 +11,6 @@
  
 * Zoom control
 * Location tracking control
-* Add markers with custom label text using Ionic Alerts
 * Base layer control with 6 presets
     - Streets
     - Dark
